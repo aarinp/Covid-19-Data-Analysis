@@ -1,2 +1,2 @@
 # Covid-19-Data-Analysis-modeling-and-pridiction
-The dataset is taken from JHU's GitHub repository. The data is being analyzed and visualized globally till now using python, pandas and plotly. 
+The dataset is taken from JHU's GitHub repository. The software and packages which are used in this project are Jupter Notebook, Python, Pandas, Plotly
