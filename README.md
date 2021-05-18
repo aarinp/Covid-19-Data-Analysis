@@ -6,4 +6,3 @@ From the provided Time Series DataSet, I am successfully able to derive active c
 The columns names of the datasets which were named as dates renamed to numbers of days to make visualization look simple and can be interpretable eaisliy.
 In the visualization of trend you will find days label on the x-axis and cases count on y-axis.
 While visualizing the data gathered from above datasest and newly created active cases dataset. I ploted a pie chart  of all the 4 dataset (used numeric data only).
-In the pie chart I discovered the fatality rate of Covid-19 Globally and Country wise.
