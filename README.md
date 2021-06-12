@@ -5,4 +5,3 @@ This project is focussed majorly on analysis and visualization of the data on bo
 From the provided Time Series DataSet, I am successfully able to derive active cases with the help of confirmed case dataset, deaths dataset and recovered case dataset.
 The columns names of the datasets which were named as dates renamed to numbers of days to make visualization look simple and can be interpretable eaisliy.
 In the visualization of trend you will find days label on the x-axis and cases count on y-axis.
-While visualizing the data gathered from above datasest and newly created active cases dataset. I ploted a pie chart  of all the 4 dataset (used numeric data only).
